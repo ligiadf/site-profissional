@@ -1,6 +1,6 @@
 # Meu site pessoal
 
-Controle de versão do meu site pessoal: lfreitas.info
+Controle de versão do meu site pessoal: [lfreitas.info](https://lfreitas.info)
 
 ## Changelog
 
