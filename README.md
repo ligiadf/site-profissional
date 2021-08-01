@@ -8,6 +8,7 @@ Controle de versão do meu site pessoal: lfreitas.info
 
 - Página para currículo e portfólio, destacando os principais trabalhos
 - Remodelação com Bootstrap 5
+- No .htaccess foram adicionadas regras para retirar a extensão da URL, exemplo: ``RewriteRule ^(index)$ $1.php [NC,L]``
 
 ### [...]
 
