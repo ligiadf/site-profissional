@@ -1,0 +1,18 @@
+/* navbar-top-fixed */
+body { padding-top: 4.5rem; }
+
+/* navbar */
+.navbar-toggler,
+.navbar-toggler-icon { font-size: .8rem; }
+.nav-item .active { border-bottom: 2px solid #59359A; }
+.navbar-light .navbar-nav .nav-link:hover { background-color: #59359A; color: #FFFFFF; }
+
+/* textos*/
+h1, h2, h3, h4, h5, h6, .lead { font-family: 'Noto Sans JP', sans-serif; }
+h1 { font-weight: 700; }
+.btn { text-align: left; }
+
+/* cor */
+.text-purple-500 { color: var(--bs-purple); }
+.bg-purple-500 { background-color: var(--bs-purple); border-color: #59359A; }
+a { color:#59359A; }
