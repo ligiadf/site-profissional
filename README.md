@@ -16,6 +16,10 @@ Controle de versão do meu site pessoal: [lfreitas.info](https://lfreitas.info)
 
 # Licença
 
+Código:
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Boostrap 5 / Bootstrap icons: 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
