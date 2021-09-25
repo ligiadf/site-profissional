@@ -30,19 +30,19 @@
 
 			<p><a href="https://github.com/ligiadf/lfmed" title="Veja o projeto no GitHub" class="btn btn-secondary btn-md"><i class="bi-github" role="img" aria-label="GitHub"></i> Código-fonte</a></p>
 
-			<p><strong>Ferramentas utilizadas</strong>: Astah Community, Balsamiq, draw.io, Formulários e Documentos Google.
+			<p><strong>Ferramentas utilizadas</strong>: Astah Community, Balsamiq, draw.io, Formulários e Documentos Google.</p>
 
 			<p><strong>Principais funcionalidades</strong>:</p>
 			<ul class="ps-5">
-				<li>Design responsivo;</li>
-				<li>Cadastro de usuários do sistema (administrador, recepcionista, laboratório de exames), médicos e pacientes;</li>
-				<li>Acesso mediante senha e controle de permissões conforme perfil do usuário do sistema;</li>
-				<li>Busca de medicamentos e exames pré-cadastrados;</li>
-				<li>Agendamento de consultas com verificação de conflito de horário ou indisponibilidade do médico;</li>
-				<li>Agenda semanal e mensal;</li>
-				<li>Lista de próximas consultas por data, médico, situação (marcada, realizada, ausente, cancelada);</li>
-				<li>Lista de consultas por médico e por paciente;</li>
-				<li>Criação dinâmica de documentos em PDF para o paciente com os dados do sistema: comprovante de comparecimento, atestado médico, requisição de exame e de medicamentos.</li>
+				<li>design responsivo;</li>
+				<li>cadastro de usuários do sistema (administrador, recepcionista, laboratório de exames), médicos e pacientes;</li>
+				<li>acesso mediante senha e controle de permissões conforme perfil do usuário do sistema;</li>
+				<li>busca de medicamentos e exames pré-cadastrados;</li>
+				<li>agendamento de consultas com verificação de conflito de horário ou indisponibilidade do médico;</li>
+				<li>agenda semanal e mensal;</li>
+				<li>lista de próximas consultas por data, médico, situação (marcada, realizada, ausente, cancelada);</li>
+				<li>lista de consultas por médico e por paciente;</li>
+				<li>criação dinâmica de documentos em PDF para o paciente com os dados do sistema: comprovante de comparecimento, atestado médico, requisição de exame e de medicamentos.</li>
 			</ul>
 
 			<p>Veja a seguir algumas <strong class="text-purple-500">telas do sistema</strong>.</p>
@@ -76,7 +76,5 @@
 		</div>
 
 		<a href="../portfolio" class="btn btn-outline-secondary"><i class="bi bi-arrow-left-short"></i> Portfólio</a>
-
-
 
 <?php include_once("../rodape.php"); ?>
