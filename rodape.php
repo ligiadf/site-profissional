@@ -1,7 +1,7 @@
 	</main>
 
 	<footer class="pt-3 mt-3 text-muted border-top text-end">
-		Desenvolvido por LFreitas &middot; 2009-<?php echo date('Y'); ?>
+		Desenvolvido por mim :) &middot; 2009-<?php echo date('Y'); ?>
 	</footer>
 </div>
 

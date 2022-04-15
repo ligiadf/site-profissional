@@ -5,9 +5,9 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
-		<meta property="og:url" content="https://lfreitas.info/" />
+		<meta property="og:url" content="<?php echo $url_site; ?>/" />
 		<meta property="og:title" content="Lígia 'lilly' Freitas &ndash; Bibliotecária (e nerd)" />
-		<meta property="og:image" content="https://lfreitas.info/images/lfreitas.info.jpg" />
+		<meta property="og:image" content="<?php echo $url_site; ?>/images/ligiafreitas-card.jpg" />
 		<meta property="og:description" content="Bibliotecária, Especialista em desenvolvimento de aplicações web" />
 
 		<meta name="author" content="Lígia Lilly Freitas" />

@@ -36,25 +36,25 @@
 		<div class="row mt-4 px-4">
 			<div class="col-md-6 my-2">
 				<figure class="figure">
-					<img src="imagens/lfreitas-portfolio-ai-01-mapa-site.png" class="figure-img img-fluid rounded border" alt="Mapa do site">
+					<img src="imagens/ligiafreitas-portfolio-ai-01-mapa-site.png" class="figure-img img-fluid rounded border" alt="Mapa do site">
 					<figcaption class="figure-caption">Mapa do site</figcaption>
 				</figure>
 			</div>
 			<div class="col-md-6 my-2">
 				<figure class="figure">
-					<img src="imagens/lfreitas-portfolio-ai-01-inventario-conteudo.png" class="figure-img img-fluid rounded border" alt="Inventário de conteúdo">
+					<img src="imagens/ligiafreitas-portfolio-ai-01-inventario-conteudo.png" class="figure-img img-fluid rounded border" alt="Inventário de conteúdo">
 					<figcaption class="figure-caption">Inventário de conteúdo</figcaption>
 				</figure>
 			</div>
 			<div class="col-md-6 my-2">
 				<figure class="figure">
-					<img src="imagens/lfreitas-portfolio-ai-01-telas-desktop-mobile-1.png" class="figure-img img-fluid rounded border" alt="Wireframe da página inicial em versão desktop e mobile">
+					<img src="imagens/ligiafreitas-portfolio-ai-01-telas-desktop-mobile-1.png" class="figure-img img-fluid rounded border" alt="Wireframe da página inicial em versão desktop e mobile">
 					<figcaption class="figure-caption">Wireframe da página inicial em versão desktop e mobile.</figcaption>
 				</figure>
 			</div>
 			<div class="col-md-6 my-2">
 				<figure class="figure">
-					<img src="imagens/lfreitas-portfolio-ai-01-telas-desktop-mobile-2.png" class="figure-img img-fluid rounded border" alt="Wireframe da página de contato em versão desktop e mobile">
+					<img src="imagens/ligiafreitas-portfolio-ai-01-telas-desktop-mobile-2.png" class="figure-img img-fluid rounded border" alt="Wireframe da página de contato em versão desktop e mobile">
 					<figcaption class="figure-caption">Wireframe da página de contato em versão desktop e mobile.</figcaption>
 				</figure>
 			</div>

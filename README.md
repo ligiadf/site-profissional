@@ -1,8 +1,13 @@
 # Meu site pessoal
 
-Controle de versão do meu site pessoal: [lfreitas.info](https://lfreitas.info)
+Controle de versão do meu site pessoal: [ligiafreitas.com.br](https://ligiafreitas.com.br)
 
 ## Changelog
+
+### 15/04/2022 - Alteração domínio
+
+- Mudança para domínio ligiafreitas.com.br
+- Inclusão variável url_site onde faltava
 
 ### 01/08/2021 - Nova versão
 

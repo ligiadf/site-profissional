@@ -1,5 +1,5 @@
 <?php
 
-$url_site = 'https://lfreitas.info';
+$url_site = 'https://ligiafreitas.com.br';
 
 ?>

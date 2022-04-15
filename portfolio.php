@@ -29,7 +29,7 @@
 			<div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-3">
 				<div class="col">
 					<div class="card shadow-sm w-100">
-						<img class="border-bottom" src="portfolio/imagens/lfreitas-portfolio-cobib.png" alt="Logotipo do Cobib, User story mapping e tela do protótipo" />
+						<img class="border-bottom" src="portfolio/imagens/ligiafreitas-portfolio-cobib.png" alt="Logotipo do Cobib, User story mapping e tela do protótipo" />
 						<div class="card-body">
 							<span class="badge rounded-pill bg-purple-500 text-white"><i class="bi bi-bezier2" aria-label="Product Management"></i></span>
 							<span class="badge bg-light text-dark">Product Management</span>
@@ -42,14 +42,14 @@
 						<div class="card-footer bg-white border-white text-end">
 							<a href="portfolio/cobib" title="Veja mais detalhes e telas do projeto" class="btn btn-outline-secondary btn-sm">Detalhes</a>
 							<a href="https://biblioteconomianerd.com.br/cobib-biblioteca-particular-coletiva-estudo-de-caso-product-management/" title="Leia o estudo de caso" class="btn btn-outline-secondary btn-sm"><i class="bi-card-text" role="img" aria-label=""></i> Case</a>
-							<a href="https://cobib.lfreitas.info/?utm_source=portfolio&utm_medium=link&utm_campaign=ecpm" title="Acesse o protótipo" class="btn btn-outline-secondary btn-sm"><i class="bi-window" role="img" aria-label=""></i> Protótipo</a>
+							<a href="https://cobib.ligiafreitas.com.br/?utm_source=portfolio&utm_medium=link&utm_campaign=ecpm" title="Acesse o protótipo" class="btn btn-outline-secondary btn-sm"><i class="bi-window" role="img" aria-label=""></i> Protótipo</a>
 							<a href="https://github.com/ligiadf/cobib" title="Veja o projeto no GitHub" class="btn btn-outline-secondary btn-sm"><i class="bi-github" role="img" aria-label="GitHub"></i> Código-fonte</a>
 						</div>
 					</div>
 				</div>
 				<div class="col">
 					<div class="card shadow-sm w-100">
-						<img class="border-bottom" src="portfolio/imagens/lfreitas-portfolio-ai-01-visao-geral.png" alt="Mapa do site e wireframe de versão mobile" />
+						<img class="border-bottom" src="portfolio/imagens/ligiafreitas-portfolio-ai-01-visao-geral.png" alt="Mapa do site e wireframe de versão mobile" />
 						<div class="card-body">
 							<span class="badge rounded-pill bg-purple-500 text-white"><i class="bi bi-diagram-3-fill" aria-label="Arquitetura da informação"></i></span>
 							<span class="badge bg-light text-dark">Balsamiq</span>
@@ -63,7 +63,7 @@
 				</div>
 				<div class="col">
 					<div class="card shadow-sm">
-						<img class="border-bottom" src="portfolio/imagens/lfreitas-portfolio-lfmed.png" alt="Imagem do sistema com agenda mensal" />
+						<img class="border-bottom" src="portfolio/imagens/ligiafreitas-portfolio-lfmed.png" alt="Imagem do sistema com agenda mensal" />
 						<div class="card-body">
 							<span class="badge rounded-pill bg-purple-500 text-white"><i class="bi bi-code-slash" aria-label="Desenvolvimento web"></i></span>
 							<span class="badge bg-light text-dark">PHP</span>
@@ -80,7 +80,7 @@
 				</div>
 				<div class="col">
 					<div class="card  shadow-sm  w-100">
-						<img class="border-bottom" src="portfolio/imagens/lfreitas-portfolio-arb.png" alt="Tela da página inicial do site" />
+						<img class="border-bottom" src="portfolio/imagens/ligiafreitas-portfolio-arb.png" alt="Tela da página inicial do site" />
 						<div class="card-body">
 							<span class="badge rounded-pill bg-purple-500 text-white"><i class="bi bi-code-slash" aria-label="Desenvolvimento web"></i></span>
 							<span class="badge bg-light text-dark">WordPress</span>
@@ -94,7 +94,7 @@
 				</div>
 				<div class="col">
 					<div class="card shadow-sm w-100">
-						<img class="border-bottom" src="portfolio/imagens/lfreitas-portfolio-biblioteconomianerd.png" alt="Tela da página inicial do blog" />
+						<img class="border-bottom" src="portfolio/imagens/ligiafreitas-portfolio-biblioteconomianerd.png" alt="Tela da página inicial do blog" />
 						<div class="card-body">
 							<span class="badge rounded-pill bg-purple-500 text-white"><i class="bi bi-code-slash" aria-label="Desenvolvimento web"></i></span>
 							<span class="badge bg-light text-dark">WordPress</span>
@@ -108,7 +108,7 @@
 				</div>
 				<div class="col">
 					<div class="card shadow-sm">
-						<img class="border-bottom" src="portfolio/imagens/lfreitas-portfolio-arb-diadobibliotecario.png" alt="Tela da página inicial do site" />
+						<img class="border-bottom" src="portfolio/imagens/ligiafreitas-portfolio-arb-diadobibliotecario.png" alt="Tela da página inicial do site" />
 						<div class="card-body">
 							<span class="badge rounded-pill bg-purple-500 text-white"><i class="bi bi-code-slash" aria-label="Desenvolvimento web"></i></span>
 							<span class="badge bg-light text-dark">Bootstrap</span>

@@ -51,25 +51,25 @@
 		<div class="row mt-4 px-4">
 			<div class="col-md-6 my-2">
 				<figure class="figure">
-					<a href="imagens/lfreitas-portfolio-lfmed-1.png"><img src="imagens/lfreitas-portfolio-lfmed-1.png" class="figure-img img-fluid rounded border" alt="Captura de tela do sistema"></a>
+					<a href="imagens/ligiafreitas-portfolio-lfmed-1.png"><img src="imagens/ligiafreitas-portfolio-lfmed-1.png" class="figure-img img-fluid rounded border" alt="Captura de tela do sistema"></a>
 					<figcaption class="figure-caption">Tela de login</figcaption>
 				</figure>
 			</div>
 			<div class="col-md-6 my-2">
 				<figure class="figure">
-					<a href="imagens/lfreitas-portfolio-lfmed-2.png"><img src="imagens/lfreitas-portfolio-lfmed-2.png" class="figure-img img-fluid rounded border" alt="Captura de tela do sistema"></a>
+					<a href="imagens/ligiafreitas-portfolio-lfmed-2.png"><img src="imagens/ligiafreitas-portfolio-lfmed-2.png" class="figure-img img-fluid rounded border" alt="Captura de tela do sistema"></a>
 					<figcaption class="figure-caption">Agenda semanal com as consultas marcadas</figcaption>
 				</figure>
 			</div>
 			<div class="col-md-6 my-2">
 				<figure class="figure">
-					<a href="imagens/lfreitas-portfolio-lfmed-3.png"><img src="imagens/lfreitas-portfolio-lfmed-3.png" class="figure-img img-fluid rounded border" alt="Captura de tela do sistema"></a>
+					<a href="imagens/ligiafreitas-portfolio-lfmed-3.png"><img src="imagens/ligiafreitas-portfolio-lfmed-3.png" class="figure-img img-fluid rounded border" alt="Captura de tela do sistema"></a>
 					<figcaption class="figure-caption">Detalhes da consulta com opção para gerar comprovante de comparecimento, atestado, adicionar anotações e gerar requisição de exames e medicamentos.</figcaption>
 				</figure>
 			</div>
 			<div class="col-md-6 my-2">
 				<figure class="figure">
-					<a href="imagens/lfreitas-portfolio-lfmed-4.png"><img src="imagens/lfreitas-portfolio-lfmed-4.png" class="figure-img img-fluid rounded border" alt="Captura de tela do sistema"></a>
+					<a href="imagens/ligiafreitas-portfolio-lfmed-4.png"><img src="imagens/ligiafreitas-portfolio-lfmed-4.png" class="figure-img img-fluid rounded border" alt="Captura de tela do sistema"></a>
 					<figcaption class="figure-caption">Comprovante de comparecimento em PDF gerado automaticamente com os dados da consulta.</figcaption>
 				</figure>
 			</div>

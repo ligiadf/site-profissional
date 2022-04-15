@@ -21,7 +21,7 @@
 
 		<div class="row mt-4 px-4">
 			<h2>Contato</h2>
-			<p>Você pode falar comigo pelo e-mail <a href="mailto:lfreitas@lfreitas.info">lfreitas@lfreitas.info</a> ou enviando uma mensagem pelo <a href="https://www.linkedin.com/in/lfreitas">LinkedIn</a> :)</p>
+			<p>Você pode falar comigo pelo e-mail <a href="mailto:ligiadf@gmail.com">ligiadf@gmail.com</a> ou enviando uma mensagem pelo <a href="https://www.linkedin.com/in/lfreitas">LinkedIn</a> :)</p>
 		</div>
 
 <?php include_once("rodape.php"); ?>
