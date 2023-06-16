@@ -4,6 +4,8 @@ Controle de versão do meu site pessoal: [ligiafreitas.com.br](https://ligiafrei
 
 ## Changelog
 
+### 08/06/2022 - Pequenas alterações de conteúdo
+
 ### 15/04/2022 - Alteração domínio
 
 - Mudança para domínio ligiafreitas.com.br
