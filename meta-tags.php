@@ -1,5 +1,4 @@
 <?php include_once("config.php"); ?>
-<?php include_once("ganalytics.inc"); ?>
 <?php include_once("gtag-head.inc"); ?>
 
 		<meta charset="utf-8">

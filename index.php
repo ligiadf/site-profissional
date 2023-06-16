@@ -21,7 +21,7 @@
 
 		<div class="row mt-4 px-4">
 			<h2>Apresentação</h2>
-			<p>Sou <strong class="text-purple-500">bibliotecária</strong> e possuo especialização em desenvolvimento de aplicações web. Atualmente faço o curso de <strong class="text-purple-500">Product Management</strong> na Awari.</p>
+			<p>Profissionalmente, sou <strong class="text-purple-500">bibliotecária</strong> e especialista em desenvolvimento de aplicações web pela PUC-Minas. Dentre outras formações complementares, destaco o curso intensivo de <strong class="text-purple-500">Product Management</strong> na Awari.</p>
 			<p>Trabalho há mais de 10 anos com desenvolvimento web e sistemas para bibliotecas.</p>
 			<p>Sou organizada, proativa, curiosa e criativa na solução de problemas. Gosto de estudar e compartilhar meu conhecimento, tanto no ambiente de trabalho quanto no meu blog (Biblioteconomia Nerd).</p>
 			<p>Conheça meu trabalho em <a href="curriculo">destaques do currículo</a>, <a href="portfolio">portfólio selecionado</a> e <a href="blog">blog</a>.</p>
