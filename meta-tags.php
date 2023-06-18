@@ -1,18 +1,17 @@
 <?php include_once("config.php"); ?>
-<?php include_once("gtag-head.inc"); ?>
 
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
 		<meta property="og:url" content="<?php echo $url_site; ?>/" />
-		<meta property="og:title" content="Lígia 'lilly' Freitas &ndash; Bibliotecária (e nerd)" />
+		<meta property="og:title" content="Lígia 'lilly' Freitas &ndash; Organização e tecnologia da informação para sistemas web e produtos digitais" />
 		<meta property="og:image" content="<?php echo $url_site; ?>/images/ligiafreitas-card.jpg" />
-		<meta property="og:description" content="Bibliotecária, Especialista em desenvolvimento de aplicações web" />
+		<meta property="og:description" content="Organização e tecnologia da informação para sistemas web e produtos digitais" />
 
 		<meta name="author" content="Lígia Lilly Freitas" />
-		<meta name="description" content="Lígia 'lilly' Freitas: bibliotecária e desenvolvedora web." />
-		<meta name="keywords" content="Bibliotecário, Bibliotecas, Organização, Desenvolvimento de websites, Catálogo online, Software livre, Open source" />
-		<meta name="keywords" content="Porto Alegre, Rio Grande do Sul, Brasil" />
+		<meta name="description" content="Lígia 'lilly' Freitas: organização e tecnologia da informação para sistemas web e produtos digitais" />
+		<meta name="keywords" content="Product Owner, Gestão de produtos digitais, Bibliotecária, Especialista em desenvolvimento de aplicações web, Bibliotecário, Bibliotecas, Organização, Desenvolvimento de websites, Catálogo online, Software livre, Open source" />
+		<meta name="keywords" content="São Paulo e região, Brasil" />
 
 
 		<link rel="apple-touch-icon" sizes="180x180" href="<?php echo $url_site; ?>/apple-touch-icon.png">
@@ -33,3 +32,15 @@
 
 		<!-- Tema LF -->
 		<link href="<?php echo $url_site; ?>/assets/css/tema-lf.css" rel="stylesheet">
+
+		<!-- Timeline -->
+		<link href="<?php echo $url_site; ?>/assets/css/timeline.css" rel="stylesheet">
+
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-5TCKFRKKVT"></script>
+		<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', 'G-5TCKFRKKVT');
+		</script>

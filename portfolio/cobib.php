@@ -5,14 +5,8 @@
 
 		<title>Estudo de caso de gestão de produto digital | Portfólio | Lígia 'Lilly' Freitas</title>
 
-			<style type="text/css">
-				.nav-portfolio { border-bottom: 2px solid #59359A; }
-			</style>
-
 	</head>
 	<body>
-
-<?php include_once("../navegacao.php"); ?>
 
 <div class="col-xxl-8 mx-auto p-3 ty-md-5">
 	<main>
@@ -20,11 +14,18 @@
 		<?php include_once("../cabecalho.php"); ?>
 
 		<div class="row mt-4 px-4">
+			<div class="col">
+				<a href="../" class="btn btn-outline-secondary"><i class="bi bi-arrow-left-short"></i> Voltar</a>
+			</div>
+		</div>
+
+		<div class="row mt-4 px-4">
+
 			<h2>Portfólio - Estudo de caso de gestão de produto digital</h2>
 
-			<p>Projeto realizado como trabalho de conclusão do curso intensivo de <strong class="text-purple-500">Product Management</strong> (Awari), em 2021.</p>
+			<p>Projeto realizado como trabalho de conclusão do curso intensivo de <strong class="text-red-500">Product Management</strong> (Awari), em 2021.</p>
 
-			<p class="text-purple-500 fw-bold">Documentação de discovery e delivery e criação de protótipo de um produto digital, o Cobib &ndash; Biblioteca particular e coletiva.</p>
+			<p class="text-red-500 fw-bold">Documentação de discovery e delivery e criação de protótipo de um produto digital, o Cobib &ndash; Biblioteca particular e coletiva.</p>
 
 			<p>
 				<a href="https://biblioteconomianerd.com.br/cobib-biblioteca-particular-coletiva-estudo-de-caso-product-management/" title="Leia o estudo de caso" class="btn btn-secondary btn-md"><i class="bi-card-text" role="img" aria-label=""></i> Estudo de caso</a>
@@ -64,7 +65,7 @@
 				<li>solicitação dos dados arquivados pela empresa (LGPD).</li>
 			</ul>
 
-			<p>Veja a seguir algumas imagens das <strong class="text-purple-500">entregas do case</strong> e <strong class="text-purple-500">telas do protótipo</strong>.</p>
+			<p>Veja a seguir algumas imagens das <strong class="text-red-500">entregas do case</strong> e <strong class="text-red-500">telas do protótipo</strong>.</p>
 		</div>
 
 		<div class="row mt-4 px-4">
@@ -106,6 +107,10 @@
 			</div>
 		</div>
 
-		<a href="../portfolio" class="btn btn-outline-secondary"><i class="bi bi-arrow-left-short"></i> Portfólio</a>
+		<div class="row mt-4 px-4">
+			<div class="col">
+				<a href="../" class="btn btn-outline-secondary"><i class="bi bi-arrow-left-short"></i> Voltar</a>
+			</div>
+		</div>
 
 <?php include_once("../rodape.php"); ?>

@@ -1,18 +1,31 @@
 /* navbar-top-fixed */
-body { padding-top: 4.5rem; }
-
-/* navbar */
-.navbar-toggler,
-.navbar-toggler-icon { font-size: .8rem; }
-.nav-item .active { border-bottom: 2px solid #59359A; }
-.navbar-light .navbar-nav .nav-link:hover { background-color: #59359A; color: #FFFFFF; }
+body {
+	padding-top: 1.2rem;
+	font-size: 1.1rem;
+}
 
 /* textos*/
 h1, h2, h3, h4, h5, h6, .lead { font-family: 'Noto Sans JP', sans-serif; }
 h1 { font-weight: 700; }
 .btn { text-align: left; }
 
-/* cor */
+/* cor destaque roxo */
 .text-purple-500 { color: var(--bs-purple); }
 .bg-purple-500 { background-color: var(--bs-purple); border-color: #59359A; }
-a { color:#59359A; }
+
+/* cor destaque vermelho */
+.text-red-500 { color: var(--bs-red); }
+.bg-red-500 { background-color: var(--bs-red); border-color: #992C43; }
+*:target { color:#992C43; }
+
+/* cor linkedin */
+.bg-in { background-color: #0E76A8; border-color: #0E76A8; }
+
+/* cor github */
+.bg-gh { background-color: #24292F; border-color: #24292F; }
+
+/* cor instagram */
+.bg-ig { background-color: #C13584; border-color: #C13584; }
+
+/* cor facebook */
+.bg-fb { background-color: #4267B2; border-color: #4267B2; }

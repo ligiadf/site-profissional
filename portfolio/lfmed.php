@@ -5,19 +5,19 @@
 
 		<title>Agenda para consultório médico | Portfólio | Lígia 'Lilly' Freitas</title>
 
-			<style type="text/css">
-				.nav-portfolio { border-bottom: 2px solid #59359A; }
-			</style>
-
 	</head>
 	<body>
-
-<?php include_once("../navegacao.php"); ?>
 
 <div class="col-xxl-8 mx-auto p-3 ty-md-5">
 	<main>
 
 		<?php include_once("../cabecalho.php"); ?>
+
+		<div class="row mt-4 px-4">
+			<div class="col">
+				<a href="../" class="btn btn-outline-secondary"><i class="bi bi-arrow-left-short"></i> Voltar</a>
+			</div>
+		</div>
 
 		<div class="row mt-4 px-4">
 			<h2>Portfólio - Agenda para consultório médico (LFMED)</h2>
@@ -26,7 +26,7 @@
 
 			<p>Projeto realizado como trabalho de conclusão do curso de Pós-graduação Lato Sensu (Especialização) em Desenvolvimento de Aplicações Web (PUC-MINAS), em 2018.</p>
 
-			<p><strong class="text-purple-500">Desenvolvimento front-end e back-end </strong> com <strong class="text-purple-500">PHP 7</strong> (MVC/OO), <strong class="text-purple-500">MySQL</strong>, <strong class="text-purple-500">Bootstrap 4</strong>. Escrita da <strong class="text-purple-500">documentação</strong> contendo os requisitos, diagramas de casos de uso, arquitetura de software e da arquitetura da informação, testes realizados (funcionalidade, marcação HTML e acessibilidade).</p>
+			<p><strong class="text-red-500">Desenvolvimento front-end e back-end </strong> com <strong class="text-red-500">PHP 7</strong> (MVC/OO), <strong class="text-red-500">MySQL</strong>, <strong class="text-red-500">Bootstrap 4</strong>. Escrita da <strong class="text-red-500">documentação</strong> contendo os requisitos, diagramas de casos de uso, arquitetura de software e da arquitetura da informação, testes realizados (funcionalidade, marcação HTML e acessibilidade).</p>
 
 			<p><a href="https://github.com/ligiadf/lfmed" title="Veja o projeto no GitHub" class="btn btn-secondary btn-md"><i class="bi-github" role="img" aria-label="GitHub"></i> Código-fonte</a></p>
 
@@ -45,7 +45,7 @@
 				<li>criação dinâmica de documentos em PDF para o paciente com os dados do sistema: comprovante de comparecimento, atestado médico, requisição de exame e de medicamentos.</li>
 			</ul>
 
-			<p>Veja a seguir algumas <strong class="text-purple-500">telas do sistema</strong>.</p>
+			<p>Veja a seguir algumas <strong class="text-red-500">telas do sistema</strong>.</p>
 		</div>
 
 		<div class="row mt-4 px-4">
@@ -75,6 +75,10 @@
 			</div>
 		</div>
 
-		<a href="../portfolio" class="btn btn-outline-secondary"><i class="bi bi-arrow-left-short"></i> Portfólio</a>
+		<div class="row mt-4 px-4">
+			<div class="col">
+				<a href="../" class="btn btn-outline-secondary"><i class="bi bi-arrow-left-short"></i> Voltar</a>
+			</div>
+		</div>
 
 <?php include_once("../rodape.php"); ?>
