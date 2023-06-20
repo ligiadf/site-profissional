@@ -3,7 +3,7 @@
 	<head>
 		<?php include_once("../meta-tags.php"); ?>
 
-		<title>Reformulação de site de entidade de classe | Portfólio | Lígia 'Lilly' Freitas</title>
+		<title>Reformulação de site de entidade de classe &middot; Portfólio &middot; Lígia 'Lilly' Freitas</title>
 
 	</head>
 	<body>

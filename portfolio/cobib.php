@@ -3,7 +3,7 @@
 	<head>
 		<?php include_once("../meta-tags.php"); ?>
 
-		<title>Estudo de caso de gestão de produto digital | Portfólio | Lígia 'Lilly' Freitas</title>
+		<title>Estudo de caso de gestão de produto digital &middot; Portfólio &middot; Lígia 'Lilly' Freitas</title>
 
 	</head>
 	<body>

@@ -1,4 +1,13 @@
-<?php include_once("config.php"); ?>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-5TCKFRKKVT"></script>
+		<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', 'G-5TCKFRKKVT');
+		</script>
+
+		<?php include_once("config.php"); ?>
 
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -35,12 +44,3 @@
 
 		<!-- Timeline -->
 		<link href="<?php echo $url_site; ?>/assets/css/timeline.css" rel="stylesheet">
-
-		<!-- Global site tag (gtag.js) - Google Analytics -->
-		<script async src="https://www.googletagmanager.com/gtag/js?id=G-5TCKFRKKVT"></script>
-		<script>
-		window.dataLayer = window.dataLayer || [];
-		function gtag(){dataLayer.push(arguments);}
-		gtag('js', new Date());
-		gtag('config', 'G-5TCKFRKKVT');
-		</script>

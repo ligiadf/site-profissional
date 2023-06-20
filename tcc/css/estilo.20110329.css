@@ -1,0 +1,77 @@
+* { margin:0; padding:0; }
+
+body {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	background-color:#EEE;
+}
+div#all {
+	margin:0 auto;
+	background-color:#EEE;
+	width:760px;
+	padding:20px;
+}
+div#top div#header div#info div#download div#natureza div#bottom div#footer {
+	position:relative;
+}
+div#header {
+	margin-bottom:30px;
+}
+div#natureza {
+	float:left;
+	width:380px;
+	height:70px;
+	text-align:left;
+}
+div#download {
+	float:left;
+	width:380px;
+	height:70px;
+	text-align:right;
+}
+div#bottom {
+	margin-top:30px;
+	float:left;	
+}
+div#footer {
+	padding-top:20px;
+	text-align:center;
+}
+h1 {
+	font-size:1.5em;
+	text-align:center;
+}
+h3, h4 {
+	text-align:center;
+}
+p {
+	font-size:1em;
+}
+table {
+	width:760px;
+}
+th {
+	vertical-align:top;
+	border-bottom:2px solid #660099;
+	padding-bottom:5px;
+}
+td {
+	border-bottom:1px dotted #666699;
+	padding-bottom:5px;
+	vertical-align:top;
+}
+.table-footer {
+	font-size:1em;
+	text-align:center;
+}
+.thumb {
+	border:0;
+}
+.nota {
+	font-size:0.8em;
+	text-align:center;
+}
+
+a:link, a:hover, a:visited, a:active {
+	font-size:1em;
+}

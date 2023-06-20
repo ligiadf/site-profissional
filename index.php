@@ -3,7 +3,7 @@
 	<head>
 		<?php include_once("meta-tags.php"); ?>
 
-		<title>Lígia 'Lilly' Freitas</title>
+		<title>Lígia 'Lilly' Freitas &middot; Organização e tecnologia da informação para sistemas web e produtos digitais</title>
 
 	</head>
 	<body>
@@ -17,9 +17,9 @@
 
 			<p>Gosto de organizar as coisas e resolver problemas :)</p>
 			<p>Profissionalmente tenho um <strong class="text-red-500">perfil generalista com experiência em produtos digitais</strong>, atuando como interface entre equipe e diferentes stakeholders em projetos B2C e B2B.</p>
-			<p>Execução de diferentes atividades como documentação técnica, gestão de backlog e liderança técnica, utilizando métodos ágeis como Scrum e Kanban. Possuo <strong class="text-red-500">background técnico</strong> e já atuei com suporte técnico e desenvolvimento web.</p>
+			<p>Possuo experiência na execução de diferentes atividades como documentação técnica, gestão de backlog e liderança técnica, utilizando métodos ágeis como Scrum e Kanban. Possuo <strong class="text-red-500">background técnico</strong> e já atuei com suporte técnico e desenvolvimento web.</p>
 			<p>Gosto de compartilhar meu conhecimento com os colegas de trabalho e no <strong class="text-red-500">blog Biblioteconomia Nerd</strong>.</p>
-			<p>Principais áreas de interesse: gestão de produtos digitais (APM, PM, PO), arquitetura da informação para web, metadados e taxonomia.</p>
+			<p>Minhas principais áreas de interesse profissional são: gestão de produtos digitais (APM, PM, PO), gestão do conhecimento, arquitetura da informação para web, metadados e taxonomia.</p>
 			<p>Você pode <strong class="text-red-500">entrar em contato</strong> comigo pelo e-mail ligiadf @ gmail.com ou enviando uma mensagem pelo <a href="https://www.linkedin.com/in/lfreitas">LinkedIn</a> :)</p>
 		</div>
 
@@ -27,9 +27,11 @@
 			<h2 class="pb-3">Idiomas e principais conhecimentos técnicos</h2>
 
 			<p><i class="bi bi-translate"></i> Português, Inglês e Espanhol</p>
-			<p><i class="bi bi-bezier2"></i> Monday, Figma, Miro, Xmind</p>
+			<p><i class="bi bi-bezier2"></i> Monday, Figma, Miro, Xmind, Balsamiq, Qualtrics</p>
 			<p><i class="bi bi-stack"></i> HTML, CSS, JavaScript, PHP, SQL, Shell script, API, JSON, Markdown</p>
+			<p><i class="bi bi-google"></i> Ferramentas Google: Mail, Drive, Forms, Meet</p>
 			<p><i class="bi bi-microsoft"></i> Pacote Microsoft Office: Word, Excel, PowerPoint, Visio, Teams</p>
+			<p><i class="bi bi-browser-firefox"></i> Entusiasta e usuária do Firefox desde a versão 2</p>
 
 		</div>
 
@@ -72,16 +74,13 @@
 						<div class="timeline-body">
 							<p>
 								<ul>
-									<li>Arquitetura da informação, inventário de conteúdo e elicitação de requisitos para remodelar e criar sites e portais</li>
-									<li>Desenvolvimento de sites em WordPress</li>
+									<li>Arquitetura da informação, inventário de conteúdo e elicitação de requisitos para remodelar e criar sites e portais (cases: <i class="bi bi-bullseye"></i> <a href="portfolio/ai-01" title="Veja mais detalhes e telas do projeto">site de entidade de classe</a>, <i class="bi bi-bullseye"></i> <a href="portfolio/ai-02" title="Veja mais detalhes e telas do projeto">portal de revistas científicas</a>)</li>
+									<li>Desenvolvimento de sites em WordPress (case: <i class="bi bi-wordpress"></i> <a href="https://web.archive.org/web/20220120155256/https://arb.org.br/" title="Visualizar site no Internet Archive">associação de classe</a>)</li>
 									<li>Benchmarking de ferramentas e-commerce para clube de assinatura</li>
 									<li>Criação de checklist para avaliação de maturidade digital de empresas</li>
 									<li>Auxílio na escolha de sistemas para bibliotecas de pequeno e médio porte</li>
+									<li>Criação de controle para gerenciar associados com ferramentas do Google e <i class="bi bi-github" role="img" aria-label="GitHub"></i> <a href="https://github.com/ligiadf/banco-talentos" title="Veja o projeto no GitHub">Banco de talentos</a></li>
 								</ul>
-							</p>
-							<p>
-								<a href="portfolio/ai-01" title="Veja mais detalhes e telas do projeto" class="btn btn-outline-secondary btn-sm"><i class="bi bi-diagram-2"></i> Case: arquitetura da informação com Balsamiq</a>
-								<a href="https://web.archive.org/web/20220120155256/https://arb.org.br/" title="Visualizar site no Internet Archive" class="btn btn-outline-secondary btn-sm"><i class="bi bi-wordpress"></i> Case: site desenvolvido em WordPress</a>
 							</p>
 
 						
@@ -119,13 +118,8 @@
 						</div>
 						<div class="timeline-body">
 							<p>Desenvolvimento e suporte relacionado a tecnologias, sistemas e equipamentos de biblioteca universitária; interface entre TI e fornecedores.</p>
-							<p>Planejamento e desenvolvimento do site da Biblioteca, desde a arquitetura da informação até a implementação em WordPress.</p>
-							<p>Desenvolvimento de site comemorativo e visital virtual.</p>
-							<p>
-								<a href="https://web.archive.org/web/20190402202655/http://biblioteca.pucrs.br/" title="Visualizar site no Internet Archive" class="btn btn-outline-secondary btn-sm"><i class="bi bi-archive-fill"></i> Site WordPress no Internet Archive</a>
-								<a href="https://web.archive.org/web/20221206071027/https://biblioteca.pucrs.br/visitavirtual/index.php" title="Visualizar site no Internet Archive" class="btn btn-outline-secondary btn-sm"><i class="bi bi-archive-fill"></i> Visita Virtual no Internet Archive</a>
-								<a href="https://web.archive.org/web/20201021014157/https://biblioteca.pucrs.br/40anos/" title="Visualizar site no Internet Archive" class="btn btn-outline-secondary btn-sm"><i class="bi bi-archive-fill"></i> Site comemorativo no Internet Archive</a>
-							</p>
+							<p>Planejamento e desenvolvimento do site da Biblioteca, desde a arquitetura da informação até a <i class="bi bi-wordpress"></i> <a href="https://web.archive.org/web/20190402202655/http://biblioteca.pucrs.br/" title="Visualizar site no Internet Archive">implementação em WordPress</a>.</p>
+							<p>Desenvolvimento de <i class="bi bi-bullseye"></i> <a href="https://web.archive.org/web/20201021014157/https://biblioteca.pucrs.br/40anos/" title="Visualizar site no Internet Archive">site comemorativo</a> e <i class="bi bi-bullseye"></i> <a href="https://web.archive.org/web/20221206071027/https://biblioteca.pucrs.br/visitavirtual/index.php" title="Visualizar site no Internet Archive">visital virtual</a>.</p>
 						</div>
 					</div>
 				</li>
@@ -230,8 +224,12 @@
 							<p><small class="text-muted"><i class="bi bi-clock"></i> 2006-2010 <i class="bi bi-building-fill"></i> UFRGS</small></p>
 						</div>
 						<div class="timeline-body">
-							<p>Trabalho final sobre Arquitetura da Informação: "As páginas iniciais de websites de universidades brasileiras e suas informações: tipos, organização e visibilidade"</p>
-							<p><a href="http://hdl.handle.net/10183/27831" title="Leia o TCC" class="btn btn-outline-secondary btn-sm"><i class="bi bi-file-medical"></i> TCC</a></p>
+							<p>Trabalho final sobre Arquitetura da Informação: "As páginas iniciais de websites de universidades brasileiras e suas informações: tipos, organização e visibilidade".</p>
+							<p>
+								<a href="/tcc" title="Veja as telas do TCC" class="btn btn-outline-secondary btn-sm"><i class="bi bi-plus-circle-dotted"></i> Detalhes</a>
+								<a href="http://hdl.handle.net/10183/27831" title="Leia o TCC" class="btn btn-outline-secondary btn-sm"><i class="bi bi-file-medical"></i> TCC</a>
+								<a href="http://periodicos.sbu.unicamp.br/ojs/index.php/rdbci/article/view/1644" title="Leia artigo baseado no TCC" class="btn btn-outline-secondary btn-sm"><i class="bi bi-file-medical"></i> Artigo baseado no TCC</a>
+							</p>
 
 						</div>
 					</div>

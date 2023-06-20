@@ -3,7 +3,7 @@
 	<head>
 		<?php include_once("../meta-tags.php"); ?>
 
-		<title>Agenda para consultório médico | Portfólio | Lígia 'Lilly' Freitas</title>
+		<title>Agenda para consultório médico &middot; Portfólio &middot; Lígia 'Lilly' Freitas</title>
 
 	</head>
 	<body>
