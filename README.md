@@ -4,9 +4,16 @@ Controle de versão do meu site pessoal: [ligiafreitas.com.br](https://ligiafrei
 
 ## Changelog
 
-### 2023-03.rev01
+### 2023-03
 
+**20/06/2022**
+- Revisão conteúdo e nova foto
+- Adicionado conteúdo TCC
+- Adicionados novos itens no Portfolio
+
+**18/06/2022**
 - Reformulação visual, adicionando currículo e portfólio em forma de linha do tempo
+
 
 ### 2021-08.rev02
 
