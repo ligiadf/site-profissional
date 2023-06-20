@@ -57,9 +57,9 @@
 						</div>
 						<div class="timeline-body">
 							<ul>
-								<li>P.O. em time Scrum de subscrição automática de riscos de saúde, com <strong>foco em delivery</strong> em produto multilíngue, B2B e API</li>
-								<li>Relacionamento com clientes nacionais e internacionais (<strong>Inglês e Espanhol</strong>)</li>
-								<li>Atuação em equipe de <strong>taxonomia</strong> na área da saúde e riscos</li>
+								<li>P.O. em time Scrum de subscrição automática de riscos de saúde, com <strong>foco em delivery</strong> em produto multilíngue, B2B e API.</li>
+								<li>Relacionamento com clientes nacionais e internacionais (<strong>Inglês e Espanhol</strong>).</li>
+								<li>Atuação em equipe de <strong>taxonomia</strong> na área da saúde e riscos.</li>
 							</ul>
 						</div>
 					</div>
@@ -72,18 +72,14 @@
 							<p><small class="text-muted"><i class="bi bi-clock-history"></i> 2012 - atual</small></p>
 						</div>
 						<div class="timeline-body">
-							<p>
 								<ul>
-									<li>Arquitetura da informação, inventário de conteúdo e elicitação de requisitos para remodelar e criar sites e portais (cases: <i class="bi bi-bullseye"></i> <a href="portfolio/ai-01" title="Veja mais detalhes e telas do projeto">site de entidade de classe</a>, <i class="bi bi-bullseye"></i> <a href="portfolio/ai-02" title="Veja mais detalhes e telas do projeto">portal de revistas científicas</a>)</li>
-									<li>Desenvolvimento de sites em WordPress (case: <i class="bi bi-wordpress"></i> <a href="https://web.archive.org/web/20220120155256/https://arb.org.br/" title="Visualizar site no Internet Archive">associação de classe</a>)</li>
-									<li>Benchmarking de ferramentas e-commerce para clube de assinatura</li>
-									<li>Criação de checklist para avaliação de maturidade digital de empresas</li>
-									<li>Auxílio na escolha de sistemas para bibliotecas de pequeno e médio porte</li>
-									<li>Criação de controle para gerenciar associados com ferramentas do Google e <i class="bi bi-github" role="img" aria-label="GitHub"></i> <a href="https://github.com/ligiadf/banco-talentos" title="Veja o projeto no GitHub">Banco de talentos</a></li>
+									<li>Arquitetura da informação, inventário de conteúdo e elicitação de requisitos para remodelar e criar sites e portais (cases: <a href="portfolio/ai-01" title="Veja mais detalhes e telas do projeto">site de entidade de classe</a>, <a href="portfolio/ai-02" title="Veja mais detalhes e telas do projeto">portal de revistas científicas</a>).</li>
+									<li>Desenvolvimento de sites em WordPress (case: <a href="https://web.archive.org/web/20220120155256/https://arb.org.br/" title="Visualizar site no Internet Archive">associação de classe</a>).</li>
+									<li>Benchmarking de ferramentas e-commerce para clube de assinatura.</li>
+									<li>Criação de checklist para avaliação de maturidade digital de empresas.</li>
+									<li>Auxílio na escolha de sistemas para bibliotecas de pequeno e médio porte.</li>
+									<li>Criação de controle para gerenciar associados com ferramentas do Google e desenvolvimento de um <a href="https://github.com/ligiadf/banco-talentos" title="Veja o projeto no GitHub">banco de talentos</a>.</li>
 								</ul>
-							</p>
-
-						
 						</div>
 					</div>
 				</li>
@@ -95,7 +91,7 @@
 							<p><small class="text-muted"><i class="bi bi-clock-history"></i> 2008 - atual</small></p>
 						</div>
 						<div class="timeline-body">
-							<p>Blog que aborda assuntos relacionados a documentação técnicas, sistemas para bibliotecas, desenvolvimento web, organização da informação, produtividade, entre outros assuntos relacionados, na forma de textos com relatos de experiência, tutoriais e reviews.</p>
+							<p>Blog que aborda documentação técnica, sistemas para bibliotecas, desenvolvimento web, organização da informação, produtividade, entre outros assuntos relacionados.</p>
 							<p>
 								<a href="https://biblioteconomianerd.com.br" title="Acessar o blog" class="btn btn-outline-secondary btn-sm"><i class="bi bi-wordpress"></i> Blog</a>
 								<a href="https://instagram.com/biblioteconomianerd" title="Acessar o blog" class="btn btn-outline-secondary btn-sm"><i class="bi bi-instagram"></i> Instagram</a>
@@ -117,9 +113,11 @@
 							</p>
 						</div>
 						<div class="timeline-body">
-							<p>Desenvolvimento e suporte relacionado a tecnologias, sistemas e equipamentos de biblioteca universitária; interface entre TI e fornecedores.</p>
-							<p>Planejamento e desenvolvimento do site da Biblioteca, desde a arquitetura da informação até a <i class="bi bi-wordpress"></i> <a href="https://web.archive.org/web/20190402202655/http://biblioteca.pucrs.br/" title="Visualizar site no Internet Archive">implementação em WordPress</a>.</p>
-							<p>Desenvolvimento de <i class="bi bi-bullseye"></i> <a href="https://web.archive.org/web/20201021014157/https://biblioteca.pucrs.br/40anos/" title="Visualizar site no Internet Archive">site comemorativo</a> e <i class="bi bi-bullseye"></i> <a href="https://web.archive.org/web/20221206071027/https://biblioteca.pucrs.br/visitavirtual/index.php" title="Visualizar site no Internet Archive">visital virtual</a>.</p>
+							<ul>
+								<li>Desenvolvimento e suporte relacionado a tecnologias, sistemas e equipamentos de biblioteca universitária; interface entre TI e fornecedores.</li>
+								<li>Planejamento e desenvolvimento do site da Biblioteca, desde a arquitetura da informação até a <a href="https://web.archive.org/web/20190402202655/http://biblioteca.pucrs.br/" title="Visualizar site no Internet Archive">implementação em WordPress</a>.</li>
+								<li>Desenvolvimento de <a href="https://web.archive.org/web/20201021014157/https://biblioteca.pucrs.br/40anos/" title="Visualizar site no Internet Archive">site comemorativo</a> e <a href="https://web.archive.org/web/20221206071027/https://biblioteca.pucrs.br/visitavirtual/index.php" title="Visualizar site no Internet Archive">visital virtual</a>.</li>
+							</ul>
 						</div>
 					</div>
 				</li>
@@ -162,7 +160,7 @@
 						</div>
 						<div class="timeline-body">
 							<p>Cursos: "Trilhando sua carreira em TW" e "Decolando em TW: da API à documentação".</p>
-							<p>Oficina do segundo curso: documentação técnica em Markdown explicando casos de uso da Cat API.</p>
+							<p>Oficina do segundo curso: <strong>documentação técnica em Markdown explicando casos de uso da Cat API</strong>.</p>
 							<p>
 								<a href="https://biblioteconomianerd.com.br/documentacao-tecnica-para-apis/" title="Leia o post no blog" class="btn btn-outline-secondary btn-sm"><i class="bi bi-card-text"></i> Case</a>
 								<a href="https://github.com/ligiadf/TheCatAPI/blob/main/imagens.md" title="Veja o projeto no GitHub" class="btn btn-outline-secondary btn-sm"><i class="bi bi-github" role="img" aria-label="GitHub"></i> Código</a>
@@ -179,8 +177,8 @@
 						</div>
 						<div class="timeline-body">
 							<p>Curso intensivo de 150 horas.</p>
-							<p>Estudo de caso: documentação de discovery e delivery para produto digital e criação de protótipo.</p>
-							<p>Cobib &ndash; Biblioteca particular e coletiva.</p>
+							<p>Trabalho final: estudo de caso com documentação de discovery e delivery para produto digital e criação de protótipo funcional.</p>
+							<p>Projeto: <strong>Cobib &ndash; Biblioteca particular e coletiva</strong>.</p>
 							<p>
 								<a href="portfolio/cobib" title="Veja mais detalhes e telas do projeto" class="btn btn-outline-secondary btn-sm"><i class="bi bi-plus-circle-dotted"></i> Detalhes</a>
 								<a href="https://biblioteconomianerd.com.br/cobib-biblioteca-particular-coletiva-estudo-de-caso-product-management/" title="Leia o estudo de caso" class="btn btn-outline-secondary btn-sm"><i class="bi bi-card-text"></i> Case Cobib</a>
