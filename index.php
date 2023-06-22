@@ -20,7 +20,7 @@
 			<p>Possuo experiência na execução de diferentes atividades como documentação técnica, gestão de backlog e liderança técnica, utilizando métodos ágeis como Scrum e Kanban. Possuo <strong class="text-red-500">background técnico</strong> e já atuei com suporte técnico e desenvolvimento web.</p>
 			<p>Gosto de compartilhar meu conhecimento com os colegas de trabalho e no <strong class="text-red-500">blog Biblioteconomia Nerd</strong>.</p>
 			<p>Minhas principais áreas de interesse profissional são: gestão de produtos digitais (APM, PM, PO), gestão do conhecimento, arquitetura da informação para web, metadados e taxonomia.</p>
-			<p>Você pode <strong class="text-red-500">entrar em contato</strong> comigo pelo e-mail ligiadf @ gmail.com ou enviando uma mensagem pelo <a href="https://www.linkedin.com/in/lfreitas">LinkedIn</a> :)</p>
+			<p>Você pode <strong class="text-red-500">entrar em contato</strong> comigo pelo e-mail ligiadf @ gmail.com ou enviando uma mensagem pelo <a href="https://www.linkedin.com/in/ligiadf">LinkedIn</a> :)</p>
 		</div>
 
 		<div class="row px-4 mt-5 mb-2">
